@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/horoscopeApp/static/css/main.2c8e1964.chunk.css",
+    "main.js": "/horoscopeApp/static/js/main.943e8110.chunk.js",
+    "main.js.map": "/horoscopeApp/static/js/main.943e8110.chunk.js.map",
+    "runtime-main.js": "/horoscopeApp/static/js/runtime-main.a654153f.js",
+    "runtime-main.js.map": "/horoscopeApp/static/js/runtime-main.a654153f.js.map",
+    "static/js/2.054c4bed.chunk.js": "/horoscopeApp/static/js/2.054c4bed.chunk.js",
+    "static/js/2.054c4bed.chunk.js.map": "/horoscopeApp/static/js/2.054c4bed.chunk.js.map",
+    "index.html": "/horoscopeApp/index.html",
+    "precache-manifest.87329784681a2d82d31e32ac47d3ad18.js": "/horoscopeApp/precache-manifest.87329784681a2d82d31e32ac47d3ad18.js",
+    "service-worker.js": "/horoscopeApp/service-worker.js",
+    "static/css/main.2c8e1964.chunk.css.map": "/horoscopeApp/static/css/main.2c8e1964.chunk.css.map",
+    "static/js/2.054c4bed.chunk.js.LICENSE": "/horoscopeApp/static/js/2.054c4bed.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a654153f.js",
+    "static/js/2.054c4bed.chunk.js",
+    "static/css/main.2c8e1964.chunk.css",
+    "static/js/main.943e8110.chunk.js"
+  ]
+}
